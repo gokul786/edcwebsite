@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+}
+
+
+#myVideo {
+    position: absolute;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.viewport-header {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.5;
+    padding-left: 10px;
+    padding-right: 10px;
+}
