@@ -43,3 +43,25 @@
     transform-origin: 0% 50%;
   }
 
+
+
+  .tabs .indicator {
+    background-color: greenyellow;
+}
+
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: rgba(255, 255, 255, 0.2);
+    outline: none;
+}
+
+
+.mvsection{
+padding-left:30px ;
+padding-right:30px ;
+
+}
+
+
+.tabs{
+    padding-left: 20px;
+}

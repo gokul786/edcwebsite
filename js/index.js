@@ -3,4 +3,5 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Carousel.init(elems,{
       indicators: true,
       fullWidth: true    });
+
   });
